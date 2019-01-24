@@ -1,0 +1,24 @@
+{
+  "name": "payfast",
+  "version": "1.0.0",
+  "description": "um gateway para pagamentos atraves de recursos http.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramonlsouza/payfast.git"
+  },
+  "keywords": [
+    "gateway",
+    "pagamentos",
+    "api"
+  ],
+  "author": "Ramón Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramonlsouza/payfast/issues"
+  },
+  "homepage": "https://github.com/ramonlsouza/payfast#readme"
+}
